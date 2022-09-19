@@ -1,12 +1,16 @@
 ---
-title: 'An example conference paper'
+title: 'Vacuum-Driven Parallel Continuum Robots
+with Self-Sensing Origami Linkages'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Fanwei Cheng
+  - Jiaqi Wang
+  - Zhuang Zhang
+  - Genliang Chen
+  - Hao Wang
 
 # Author notes (optional)
 author_notes:
@@ -23,13 +27,13 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *IEEE/ASME Transaction of Mechatronics*
+publication_short: In *IEEE/ASME T-mech*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Parallel continuum robots combined with soft actuators exploit the benefits of both, as well as flexibility, low cost, low self-weight, great precision, and high load capacity. Many complex modeling and sensing methods have been created to obtain increased accuracy or load, but few can achieve both. In this paper, we propose a vacuum-driven parallel continuum robot with self-sensing origami linkages. The designed parallel continuum robot consists of three bi-material printed soft vacuum-driven actuators, three absolute angle encoders, a base stage, and an output stage. We propose an analytical sensing model that maps the actuator torsion angle and length using the geometry of kresling origami. Based on the sensing model and the simple piecewise constant curvature assumption, the proposed PCR achieves a relative position accuracy of 0.3%-1.29% and a relative repeated position accuracy of 0.26%-0.85% compared to the length of actuators in a workspace of 40mm$\times$40mm$\times$40mm. In terms of weight, it processes a low self-weight of 209 g and can lift up a 3 kg load that is 15 times its self-weight. Moreover, under the load of 2kg, it can achieve high trajectories accuracy with relative average position error of 1.94% and relative repeated position error of 0.342% compared to the length of actuators. We also demonstrate that the proposed PCR can exhibit a maximum specific work and power of 0.38 kilojoules per kilogram and 0.096 kilowatts per kilogram, respectively. Continued development of this technology will likely lead to even higher performance in the future.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
