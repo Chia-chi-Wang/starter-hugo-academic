@@ -94,4 +94,5 @@ image:
 
 ---
 
-<video src="video.mp4"></video>
+<video src="video.mp4" controls="yes">
+
