@@ -55,7 +55,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'video.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -78,7 +78,7 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
-videos: videos.mp4
+
 ---
 
 
