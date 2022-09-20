@@ -79,5 +79,4 @@ $$
 
 ##### **Pendulum length optimization**
 
-<video src="Design.mp4" controls="yes">
-
+<video src="3.mp4" controls="yes">
