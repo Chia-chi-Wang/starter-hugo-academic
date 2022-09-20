@@ -91,3 +91,7 @@ image:
 **Motion test of Trajectories (with 0.5-2 kg load)**
 
 <img src="trajectory with load.png" alt="trajectory with load" style="zoom: 33%;" />
+
+---
+
+<video src="video.mp4"></video>
