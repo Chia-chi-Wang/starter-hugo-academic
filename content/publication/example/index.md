@@ -17,11 +17,11 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2022-09-27T00:00:00Z'
+date: '2016-04-27T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-09-27T00:00:00Z'
+publishDate: '2016-04-27T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -69,16 +69,22 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-#projects: []
- 
+projects:
+  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: ""
+slides: example
 
 ---
+
+
+
+{{% callout note %}}
+Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
