@@ -77,14 +77,6 @@ $$
 
 ---
 
-### **Pendulum length optimization**
-
-**Before optimization:**
-
-<video src="4.mp4" controls="yes">
-
----
-
-**After optimization:**
+##### **Pendulum length optimization**
 
 <video src="3.mp4" controls="yes">
