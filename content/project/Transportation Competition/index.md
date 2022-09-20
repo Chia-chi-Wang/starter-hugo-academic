@@ -1,5 +1,5 @@
 ---
-title: The 15th National Transportation Science and Technology Competition
+title: National Transportation Science and Technology Competition
 summary: This project uses the traffic flow data of the past road sections ,by the KNN model, the GCN+LSTM model, the wavelet denoising+LSTM model and the BiLSTM model, to accurately predict the future traffic flow data for a specific period of time.
 tags:
   - Competition
