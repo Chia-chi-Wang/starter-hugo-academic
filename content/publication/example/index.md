@@ -70,6 +70,9 @@ image:
 
 ---
 
+<video src="video.mp4" controls="yes">
+---
+
 **Design of Self-sensing Linkage**
 
 <img src="origami linkage.png" alt="origami linkage" style="zoom: 30%;" />
@@ -92,7 +95,5 @@ image:
 
 <img src="trajectory with load.png" alt="trajectory with load" style="zoom: 33%;" />
 
----
 
-<video src="video.mp4" controls="yes">
 

@@ -81,8 +81,9 @@ $$
 
 **Before optimization:**
 
-<video src="4.mp4"></video>
+<video src="4.mp4",controls="yes">
 
 **After optimization:**
 
-<video src="3.mp4"></video>
+<video src="3.mp4",controls="yes">
+
