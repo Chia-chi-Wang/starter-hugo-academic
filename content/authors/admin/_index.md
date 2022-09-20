@@ -19,7 +19,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Soft Robotics
-  - Origami Robots
+  - Origami Robotics
   - Robotic Grippers
 
 # Education to show in About widget
@@ -59,7 +59,13 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I am a senior student in School of Mechanical Engineering, Shanghai Jiao Tong University. I am broadly interested in robotics, eg. soft robotics and origami robotics, and most of my projects are related to one or more of these topics. More recently  I have been focusing on multimodal soft robots, specifically designing origami soft robots with crawling, climbing and transitioning locomotion. 
+
+Previously, I was fortunate to work in the State Key Laboratory of Mechanical System and Vibration, Shanghai Jiao Tong University, advised by Prof 
+
+[Genliang Chen]: https://scholar.google.com/citations?hl=zh-CN&amp;user=ggFP0yIAAAAJ
+
+. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
