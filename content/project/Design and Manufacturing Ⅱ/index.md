@@ -1,5 +1,5 @@
 ---
-title: Course Project of "Design and Manufacturing II"
+title: Course Project of "Design and Manufacturing 2"
 summary: A machine for drying and folding umbrella.
 tags:
   - Course Project
