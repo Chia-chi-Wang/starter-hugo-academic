@@ -3,7 +3,7 @@ title: Course Project of "Design and Manufacturing II"
 summary: A machine for drying and folding umbrella.
 tags:
   - Course Project
-date: '2022-01-01T00:00:00Z'
+date: '2022-05-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -41,4 +41,3 @@ Umbrellas are an indispensable tool in people's daily lives, but in public place
 
 
 <video src="Design.mp4" controls="yes">
-
