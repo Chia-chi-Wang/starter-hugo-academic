@@ -61,11 +61,7 @@ highlight_name: true
 
 Hello! I am a senior student in School of Mechanical Engineering, Shanghai Jiao Tong University. I am broadly interested in robotics, eg. soft robotics and origami robotics, and most of my projects are related to one or more of these topics. More recently  I have been focusing on multimodal soft robots, specifically designing origami soft robots with crawling, climbing and transitioning locomotion. 
 
-Previously, I was fortunate to work in the State Key Laboratory of Mechanical System and Vibration, Shanghai Jiao Tong University, advised by Prof 
-
-[Genliang Chen]: https://scholar.google.com/citations?hl=zh-CN&amp;user=ggFP0yIAAAAJ
-
-. 
+Previously, I was fortunate to work in the State Key Laboratory of Mechanical System and Vibration, Shanghai Jiao Tong University, advised by Prof. [Genliang Chen](https://scholar.google.com/citations?hl=zh-CN&user=ggFP0yIAAAAJ);
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
