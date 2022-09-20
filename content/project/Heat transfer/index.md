@@ -1,8 +1,8 @@
 ---
-title: "Heat Transfer" Project
+title: Example Project
 summary: An example of using the in-built project page.
 tags:
-  - Course Project
+  - Deep Learning
 date: '2022-02-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
