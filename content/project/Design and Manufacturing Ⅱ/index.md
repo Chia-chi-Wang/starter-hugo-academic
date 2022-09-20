@@ -39,6 +39,4 @@ Umbrellas are an indispensable tool in people's daily lives, but in public place
 ---
 **Video**
 
-<video src="6.mp4" controls="yes">
-
-
+<video src="6.mp4"></video>
