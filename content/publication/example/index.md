@@ -76,7 +76,13 @@ image:
 
 ---
 
-**Motion test of Trajectories (without load) **
+**Control Strategy**
+
+<img src="Control Strategy.png" alt="Control Strategy" style="zoom:33%;" />
+
+---
+
+**Motion test of Trajectories (without load)**
 
 <img src="trajectory without load.png" alt="trajectory without load" style="zoom: 33%;" />
 
