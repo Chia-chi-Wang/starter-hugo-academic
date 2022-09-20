@@ -25,12 +25,11 @@ experience:
   - title: Intern
     company: Siemens High Voltage Switchgear Co., Ltd.
     company_url: 'https://new.siemens.com/cn/en/company/about/siemens-in-china.html'
-    company_logo: siemens-logo-default
+    company_logo: org-x
     location: Shanghai
     date_start: '2022-06-01'
     date_end: '2022-08-01'
     description: Draw 3D models and process big data
 
-design:
-  columns: '2'
+
 ---
