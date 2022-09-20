@@ -25,18 +25,18 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: wangjiaqi@sjtu.edu.cn
+  phone: +86 15858113517
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 800 Dongchuan RD
+    city: Shanghai
+    region: 
+    postcode: '200240'
+    country: China
+    country_code: CHN
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '31.0220'
+    longitude: '121.4251'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
     - 'Monday 10:00 to 13:00'
