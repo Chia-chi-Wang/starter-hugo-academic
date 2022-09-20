@@ -41,22 +41,16 @@ Third, based on the location we predict, we establish the **Optimization Fishing
 In addition, we write a passage for the magazine 'Hook Line and Sinker' to help fishermen tackle the problem. Besides the two suggestions above, we also emphasize the idea of harvest controlling to achieve balance with nature. As we can clearly see when tackling the problem, for all animals including human, there doesn't exist a single winner before climate change.
 Keywords: Grey predicting model; Portfolio model;Artificial Fish Swarms Algorithm
 
-**Keywords: Grey predicting model; Portfolio model;Artificial Fish Swarms Algorithmng**
+**Keywords: Grey predicting model; Portfolio model;Artificial Fish Swarms Algorithm**
 
 ---
 
-**Partial Source Data**
+**Ocean temperature changes along the coast of Scotland in August from 1965 to 2069**
 
-![2](2.png)
-
----
-
-**Training Results**
-
-![3](3.png)
+![1](1-16636894527041.png)
 
 ---
 
-**Oral Defense Scene**
+**Optimal location for fishing over time**
 
-![1](1.png)
+<img src="4.png" alt="4" style="zoom:40%;" />
