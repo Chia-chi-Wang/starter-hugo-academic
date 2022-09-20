@@ -6,7 +6,7 @@ title: Jiaqi Wang
 superuser: true
 
 # Role/position/tagline
-role: Senior of School of Mechanical Enginnering
+role: School of Mechanical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -39,13 +39,11 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ivy_clashroyale
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/Chia-chi-Wang
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
