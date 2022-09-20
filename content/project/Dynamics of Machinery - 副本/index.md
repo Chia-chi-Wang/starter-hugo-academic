@@ -1,5 +1,5 @@
 ---
-title: Course Project of "Dynamic of Machinery"
+title: Course Project of "Design and Manufacturing II"
 summary: Chaotic pendulum dynamic optimization.
 tags:
   - Course Project
