@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Project of Course "Heat Transfer"
+summary: Research on thermal conductivity of heat dissipation interface materials.
 tags:
   - Deep Learning
 date: '2022-02-27T00:00:00Z'
