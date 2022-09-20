@@ -68,8 +68,20 @@ image:
 
 ---
 
-<img src="origami linkage.png" alt="origami linkage" style="zoom: 20%;" />
+---
 
-<img src="trajectory without load.png" alt="trajectory without load" style="zoom:15%;" />
+**Design of Self-sensing Linkage**
 
-<img src="trajectory with load.png" alt="trajectory with load" style="zoom:15%;" />
+<img src="origami linkage.png" alt="origami linkage" style="zoom: 30%;" />
+
+---
+
+**Motion test of Trajectories (without load) **
+
+<img src="trajectory without load.png" alt="trajectory without load" style="zoom: 33%;" />
+
+---
+
+**Motion test of Trajectories (with 0.5-2 kg load)**
+
+<img src="trajectory with load.png" alt="trajectory with load" style="zoom: 33%;" />
