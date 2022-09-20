@@ -3,7 +3,7 @@ title: The 15th National Transportation Science and Technology Competition
 summary: This project uses the traffic flow data of the past road sections ,by the KNN model, the GCN+LSTM model, the wavelet denoising+LSTM model and the BiLSTM model, to accurately predict the future traffic flow data for a specific period of time.
 tags:
   - Competition
-date: '2020-11-01T00:00:00Z'
+date: '2020-2-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -41,7 +41,7 @@ Third, based on the location we predict, we establish the **Optimization Fishing
 In addition, we write a passage for the magazine 'Hook Line and Sinker' to help fishermen tackle the problem. Besides the two suggestions above, we also emphasize the idea of harvest controlling to achieve balance with nature. As we can clearly see when tackling the problem, for all animals including human, there doesn't exist a single winner before climate change.
 Keywords: Grey predicting model; Portfolio model;Artificial Fish Swarms Algorithm
 
-**Keywords: Big data; Traffic flow forecasting; Space-time KNN; Deep learning; Graph neural networks; Wavelet denoising**
+**Keywords: Grey predicting model; Portfolio model;Artificial Fish Swarms Algorithmng**
 
 ---
 
