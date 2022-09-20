@@ -1,5 +1,5 @@
 ---
-title: Project of Course "Heat Transfer"
+title: Course Project of "Heat Transfer"
 summary: Research on thermal conductivity of heat dissipation interface materials.
 tags:
   - Course Project
