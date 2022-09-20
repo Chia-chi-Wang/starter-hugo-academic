@@ -77,11 +77,13 @@ $$
 
 ---
 
-**Pendulum length optimization**
+### **Pendulum length optimization**
 
 **Before optimization:**
 
 <video src="4.mp4" controls="yes">
+
+---
 
 **After optimization:**
 
