@@ -1,6 +1,6 @@
 ---
 title: Course Project of "Design and Manufacturing II"
-summary: Chaotic pendulum dynamic optimization.
+summary: A machine for drying and folding umbrella.
 tags:
   - Course Project
 date: '2022-05-27T00:00:00Z'
