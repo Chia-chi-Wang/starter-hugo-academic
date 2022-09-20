@@ -9,8 +9,8 @@ date: '2022-06-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: 
-  focal_point: 
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
 links:
   - icon: twitter
