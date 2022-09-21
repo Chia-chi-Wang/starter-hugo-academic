@@ -28,7 +28,7 @@ scholarship:
 # Education to show in About widget
 education:
   courses:
-    - course: BEng in School of Mechanical Engineering    GPA:3.9/4.0 Ranking:3/216
+    - course: BEng in School of Mechanical Engineering    <font color=red>GPA:3.9/4.0 Ranking:3/216</font>
       institution: Shanghai Jiao Tong University, 2023(Expected)
       year: 
 
