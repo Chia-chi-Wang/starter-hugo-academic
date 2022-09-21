@@ -11,7 +11,7 @@ design:
   columns: '2'
 ---
 
-- ### **National Scholarship (2021, Top 0.2%, 1/430)**
+- ### **<font color=#470024>National Scholarship (2021, Top 0.2%, 1/430)</font>**
 
 
 
