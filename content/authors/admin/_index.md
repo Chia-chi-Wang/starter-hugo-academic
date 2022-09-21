@@ -29,11 +29,6 @@ scholarship:
 education:
   courses:
     - course: BEng in School of Mechanical Engineering GPA:3.96/4.30 Ranking:3/216
-      - National Scholarship (2021, Top 0.2%, 1/430)
-      - Zhiyuan Honorary Scholarship (2022, Top 5%)
-      - Zhiyuan Honorary Scholarship (2021, Top 5%)
-      - Zhiyuan Honorary Scholarship (2020, Top 5%)
-      - Xiaomi Scholarship (2020, Top 5%)
       institution: Shanghai Jiao Tong University, 2023(Expected)
       year: 
 
