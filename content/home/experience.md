@@ -26,7 +26,7 @@ experience:
   - title: Research Assistant 
     company: The State Key Laboratory of Mechanical System and Vibration, SJTU
     company_url: 'https://msv.sjtu.edu.cn/'
-    company_logo: SJTU
+    company_logo: org-gc
     location: Shanghai
     date_start: '2022-01-01'
     date_end: ''
