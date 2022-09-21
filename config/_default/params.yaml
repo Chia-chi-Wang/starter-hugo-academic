@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: Earth
-  theme_night: Earth
+  theme_day: Ocean
+  theme_night: Ocean
   font: classic
-  font_size: S
+  font_size: M
 
 # SEO
 
