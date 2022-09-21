@@ -21,8 +21,10 @@ interests:
   - Soft Robotics
   - Origami Robotics
   - Robotic Grippers
+
 scholarship:
   - National Scholarship
+
 # Education to show in About widget
 education:
   courses:
