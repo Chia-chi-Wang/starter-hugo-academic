@@ -59,7 +59,7 @@ email: ''
 highlight_name: true
 ---
 
-Hello! I am a senior student in School of Mechanical Engineering, Shanghai Jiao Tong University(SJTU). I am broadly interested in robotics, e.g. soft robotics and origami robotics, and most of my projects are related to one or more of these topics. More recently  I have been focusing on multimodal soft robots, specifically designing origami soft robots with crawling, climbing and transitioning locomotion. 
+Hello! I am a senior student in [School of Mechanical Engineering](https://me.sjtu.edu.cn/en/), [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/). I am broadly interested in robotics, e.g. soft robotics and origami robotics, and most of my projects are related to one or more of these topics. More recently  I have been focusing on multimodal soft robots, specifically designing origami soft robots with crawling, climbing and transitioning locomotion. 
 
 Previously, I was fortunate to work in the State Key Laboratory of Mechanical System and Vibration, Shanghai Jiao Tong University, advised by Prof. [Genliang Chen](https://scholar.google.com/citations?hl=zh-CN&user=ggFP0yIAAAAJ); Robotics Institute, Shanghai Jiao Tong University, advised by Prof. [Feifei Chen](https://scholar.google.com/citations?hl=zh-CN&user=mlDNufQAAAAJ); Engineering Department, Siemens High Voltage Switchgear Co., Ltd, advised by Engr. [Chuxiong Wang](https://ccpt.cnki.net/kcms/detail/knetsearch.aspx?dbcode=CJFQ&sfield=au&skey=%e7%8e%8b%e6%a5%9a%e9%9b%84&code=42551558).
 
