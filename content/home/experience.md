@@ -22,6 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
   - title: Research Assistant 
     company: The State Key Laboratory of Mechanical System and Vibration, SJTU
     company_url: 'https://msv.sjtu.edu.cn/'
@@ -30,6 +31,7 @@ experience:
     date_start: '2022-01-01'
     date_end: ''
     description: Proposed a vacuum-driven parallel continuum robots with self-sensing origami linkages and an analytical sensing model that maps the actuator torsion angle and length using the geometry of Kresling origami.
+
   - title: Corporate Intern
     company: Siemens High Voltage Switchgear Co., Ltd.
     company_url: 'https://new.siemens.com/cn/en/company/about/siemens-in-china.html'
@@ -38,6 +40,7 @@ experience:
     date_start: '2022-06-01'
     date_end: '2022-08-01'
     description: Draw 3D models and process big data.
+
   - title: Research Assistant 
     company: China Robotics Institute, SJTU
     company_url: 'https://softrobotics.sjtu.edu.cn/'
