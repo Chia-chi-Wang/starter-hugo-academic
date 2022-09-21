@@ -30,7 +30,7 @@ education:
   courses:
     - course: BEng in School of Mechanical Engineering
       institution: Shanghai Jiao Tong University(SJTU)
-      year: 2023(Expected)
+      year: 2023(Expected) GPA: 3.96/4.30, Ranking: 3/216
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
