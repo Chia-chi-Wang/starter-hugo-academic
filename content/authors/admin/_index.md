@@ -10,8 +10,7 @@ role: School of Mechanical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Shanghai Jiao Tong University(SJTU)(
-    url: https://en.sjtu.edu.cn/)
+  - name: Shanghai Jiao Tong University(url: https://en.sjtu.edu.cn/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include soft robotics, origami robotics and Robotic Grippers.
