@@ -10,8 +10,8 @@ role: School of Mechanical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Shanghai Jiao Tong University
-    url: https://en.sjtu.edu.cn/
+  - name: Shanghai Jiao Tong University(SJTU)(
+    url: https://en.sjtu.edu.cn/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include soft robotics, origami robotics and Robotic Grippers.
@@ -26,7 +26,7 @@ interests:
 education:
   courses:
     - course: BEng in School of Mechanical Engineering
-      institution: Shanghai Jiao Tong University
+      institution: Shanghai Jiao Tong University(SJTU)
       year: 2023(Expected)
 
 # Social/Academic Networking
@@ -59,7 +59,7 @@ email: ''
 highlight_name: true
 ---
 
-Hello! I am a senior student in School of Mechanical Engineering, Shanghai Jiao Tong University. I am broadly interested in robotics, e.g. soft robotics and origami robotics, and most of my projects are related to one or more of these topics. More recently  I have been focusing on multimodal soft robots, specifically designing origami soft robots with crawling, climbing and transitioning locomotion. 
+Hello! I am a senior student in School of Mechanical Engineering, Shanghai Jiao Tong University(SJTU). I am broadly interested in robotics, e.g. soft robotics and origami robotics, and most of my projects are related to one or more of these topics. More recently  I have been focusing on multimodal soft robots, specifically designing origami soft robots with crawling, climbing and transitioning locomotion. 
 
 Previously, I was fortunate to work in the State Key Laboratory of Mechanical System and Vibration, Shanghai Jiao Tong University, advised by Prof. [Genliang Chen](https://scholar.google.com/citations?hl=zh-CN&user=ggFP0yIAAAAJ); Robotics Institute, Shanghai Jiao Tong University, advised by Prof. [Feifei Chen](https://scholar.google.com/citations?hl=zh-CN&user=mlDNufQAAAAJ); Engineering Department, Siemens High Voltage Switchgear Co., Ltd, advised by Engr. [Chuxiong Wang](https://ccpt.cnki.net/kcms/detail/knetsearch.aspx?dbcode=CJFQ&sfield=au&skey=%e7%8e%8b%e6%a5%9a%e9%9b%84&code=42551558).
 
