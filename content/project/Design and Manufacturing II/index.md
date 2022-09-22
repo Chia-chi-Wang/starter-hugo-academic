@@ -1,6 +1,6 @@
 ---
 title: Course Project of "Design and Manufacturing II"
-summary: A machine for drying and folding umbrella.(Jiaqi Wang, Z. Lu, W. Chen, H. Zhang. "A Machine for Drying and Folding Umbrella.” (China National Patent,patent pending))
+summary: A machine for drying and folding umbrella.(J. W, Z. Lu, W. Chen, H. Zhang. "A Machine for Drying and Folding Umbrella.” (China National Patent, patent pending))
 tags:
   - Course Project
 date: '2022-07-01T00:00:00Z'

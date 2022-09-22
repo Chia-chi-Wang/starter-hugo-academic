@@ -6,7 +6,7 @@ with Self-Sensing Origami Linkages'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Fanwei Cheng
+  - Weicheng Fan
   - Jiaqi Wang
   - Zhuang Zhang
   - Genliang Chen
@@ -94,4 +94,3 @@ image:
 ---
 
 <video src="video.mp4" controls="yes">
-
