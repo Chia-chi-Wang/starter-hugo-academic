@@ -44,6 +44,7 @@ header:
 footer:
   copyright:
     notice: '浙ICP备2022028489号'
+    url: 'http://beian.miit.gov.cn/'
     license:
       enable: true
       allow_derivatives: false
