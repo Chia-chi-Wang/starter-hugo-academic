@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 52
 
 title: Experience
 subtitle:
@@ -18,7 +18,7 @@ date_format: Jan 2006
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
