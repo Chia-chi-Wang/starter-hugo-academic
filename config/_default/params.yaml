@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jiaqi Wang'
+    notice: '浙ICP备2022028489号'
     license:
       enable: true
       allow_derivatives: false
